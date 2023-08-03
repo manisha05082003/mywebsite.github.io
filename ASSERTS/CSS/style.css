@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+.navigation {
+    color: aquamarine;
+    font-size: 40px;
+}
+.temp{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+.click{
+    width: 100px;
+    height: 30px;
+    margin-left: 620px;
+    color: crimson;
+    background-color: #04AA6D;
+}
